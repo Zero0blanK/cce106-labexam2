@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "236452580740",
+    "firebase_url": "https://crud-food-list-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-food-list",
+    "storage_bucket": "crud-food-list.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236452580740:android:511ca1737831f46589e1d1",
+        "android_client_info": {
+          "package_name": "com.example.labexam2_nerosa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR44PegpXeXt2cLoA1lgvDDiLy18ebBco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
